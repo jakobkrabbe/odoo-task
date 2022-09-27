@@ -1,6 +1,3 @@
-# odooext-task
-Different tasks that needs to be solved.
-
 ==========================
 Odoo Development Tutorials
 ==========================
