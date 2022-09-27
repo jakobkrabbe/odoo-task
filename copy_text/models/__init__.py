@@ -1,1 +1,1 @@
-from . import partner.py
+from . import files.py
