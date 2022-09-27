@@ -1,2 +1,2 @@
-# odoojk-task
+# odooext-task
 Different tasks that needs to be solved
